@@ -1,3 +1,5 @@
 feature logic 2
 
 Change made my teamate on remote master
+
+change made to puch conficts from local repo
